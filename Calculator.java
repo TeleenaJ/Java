@@ -24,8 +24,8 @@ public class Calculator {
 
 	        // Handle division by zero
 	        if (y != 0) {
-	            double divi = x / y;
-	            System.out.println("Division of the Given Values: " + divi);
+	            double div = x / y;
+	            System.out.println("Division of the Given Values: " + div);
 	        } else {
 	            System.out.println("Division by zero is not allowed.");
 	        }
